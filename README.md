@@ -1,7 +1,7 @@
 ## Hello World! I'm Paul Villalobos
 
 - 👀 I’m a Web Developer
-- 🌱 I’m currently learning Azure Developmente with Microservices Architecture
+- 🌱 I’m currently learning Azure Development with Microservices Architecture
 - 💞️ I’m looking to collaborate on open source projects as a back end developer
 - 📫 You can reach me at https://www.linkedin.com/in/paulvillalobos/
 
